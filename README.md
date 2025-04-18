@@ -89,5 +89,3 @@ This project performs exploratory data analysis (EDA), visualization, and statis
 
 ---
 
-## 📂 Project Structure
-
